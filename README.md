@@ -39,40 +39,76 @@ ve kterém mají rozhodnutí hráčů skutečné následky.
 <h2>📜 Pravidla a RP Terminologie</h2>
 
 <div class="grid">
+  
 <div class="card"><b>🎭 RP</b><br>Hraní příběhu a života své postavy realistickým způsobem.</div>
+  
 <div class="card"><b>👤 IC</b><br>Vše, co vaše postava říká, dělá nebo ví.</div>
+
 <div class="card"><b>💬 OOC</b><br>Komunikace mimo postavu a RP prostředí.</div>
+
 <div class="card"><b>🧠 MG</b><br>Používání informací získaných mimo hru.</div>
+
 <div class="card"><b>💪 PG</b><br>Nereálné akce a vynucování RP ostatním.</div>
+
 <div class="card"><b>😨 FearRP</b><br>Važ si života své postavy a reaguj realisticky.</div>
+
 <div class="card"><b>🚫 FailRP</b><br>Chování narušující realistické RP prostředí.</div>
+
 <div class="card"><b>🔫 RDM</b><br>Napadení nebo zabití bez RP důvodu.</div>
+
 <div class="card"><b>🚗 VDM</b><br>Použití vozidla jako zbraně bez RP důvodu.</div>
+
 <div class="card"><b>🔌 Combat Log</b><br>Odpojení během RP situace.</div>
+
 <div class="card"><b>🌆 Passive RP</b><br>Počítej s civilisty, kamerami a svědky.</div>
+
 <div class="card"><b>⚰️ CK</b><br>Trvalá smrt postavy.</div>
+
 <div class="card"><b>💀 PK</b><br>Ztráta vzpomínek na konkrétní událost.</div>
+
 <div class="card"><b>🔄 Mixing</b><br>Míchání IC a OOC informací.</div>
+
 <div class="card"><b>🥷 Ninja Jacking</b><br>Krádež vozidla bez RP interakce.</div>
+
 <div class="card"><b>🎒 Asspulling</b><br>Nereálné nošení nebo vytahování věcí.</div>
+
 <div class="card"><b>🚑 NonRP Injuries</b><br>Ignorování zranění a následků nehod.</div>
+
 <div class="card"><b>🏎️ NonRP Driving</b><br>Nerealistické používání vozidel.</div>
+
 <div class="card"><b>🔫 Gun Fear</b><br>Respektuj zbraně namířené na tvou postavu.</div>
+
 <div class="card"><b>🚔 Cop Fear</b><br>Respektuj autoritu státních složek.</div>
+
 <div class="card"><b>🐕 Dog Fear</b><br>Respektuj nebezpečí služebních psů.</div>
+
 <div class="card"><b>🔒 Jail Fear</b><br>Postava se musí obávat vězení.</div>
+
 <div class="card"><b>🎯 Revenge Kill</b><br>Pomsta za událost, na kterou si postava nepamatuje.</div>
+
 <div class="card"><b>🌿 Bushevading</b><br>Zneužívání křoví a pohledu třetí osoby.</div>
+
 <div class="card"><b>⌨️ Keybind Abuse</b><br>Zneužívání bindů a emotů pro výhodu.</div>
+
 <div class="card"><b>🎥 Stream Sniping</b><br>Sledování streamu za účelem získání informací.</div>
+
 <div class="card"><b>🏴 Gang RP</b><br>Realistické RP gangů a organizací.</div>
+
 <div class="card"><b>💰 Robbery RP</b><br>Loupeže musí být vedeny kvalitním RP.</div>
+
 <div class="card"><b>🧍 Hostage RP</b><br>Rukojmí musí ERPit strach o život.</div>
+
 <div class="card"><b>🏛️ Corruption RP</b><br>Korupční RP pouze po schválení.</div>
+
+
 <div class="card"><b>👥 Multicharacter</b><br>Postavy nesmí sdílet informace ani majetek.</div>
+
 <div class="card"><b>🐞 Bug Abuse</b><br>Zneužívání chyb serveru.</div>
+
 <div class="card"><b>📢 Toxicita</b><br>Urážky a kazení hry ostatním.</div>
+
 <div class="card"><b>⚔️ Battlefields</b><br>Při přestřelkách je prioritou přežití.</div>
+
 </div>
 </div>
 </section>
